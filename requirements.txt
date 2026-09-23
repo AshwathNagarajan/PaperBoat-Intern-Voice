@@ -1,7 +1,4 @@
-fastapi
-uvicorn
-python-multipart
 openai-whisper
-torch
-streamlit
-requests
+jiwer
+rapidfuzz
+numpy<2
